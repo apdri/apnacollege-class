@@ -1,3 +1,3 @@
 # apnacollege-class
 Demo Github Repository
-Author- Priya Dwivedi
+Author- Priya Dwivedi(IIT Bombay)
